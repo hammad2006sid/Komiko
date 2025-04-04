@@ -14,10 +14,16 @@ Komiko's powerful AI tools make it easy for artists and storytellers to bring th
 Ensure character consistency across your comic with our extensive character database.
 You can also create your own characters and use them in your image generation and comic creation to ensure consistent character appearances.
 
+![image](https://github.com/user-attachments/assets/3641ed5f-653b-4a59-9f2c-a10d8f2d77e3)
+
+
 ### AI Comic Studio
 
 Unleash your creativity and create comics, manhwa, and manga on our AI-powered canvas!
 Generate images with our AI text-to-image generator, layout your comic panels freely on the inifinite canvas, and add speech bubbles and effects to enhance your storytelling.
+
+![image](https://github.com/user-attachments/assets/dfb2cfb0-4cfd-4689-bece-1fed9cccdd78)
+
 
 
 ### Professional Art Creation with AI
@@ -29,11 +35,16 @@ Komiko provides powerful AI tools for professional art creation:
 - Background removal and relighting for flexible image editing
 Whether you're a professional artist or just starting out, our AI tools help you create stunning illustrations, comics, and animations faster than ever before.
 
+![image](https://github.com/user-attachments/assets/0440efb4-d871-4b6f-9dcb-ff79582632d6)
+
 
 ### Keyframe to Animation Generation
 
 Transform your keyframes into fluid, high-quality animations using the industry-leading AI models like Veo, Kling, Hailuo, Pixverse, and more.
 Speed up your professional animation workflow with AI-powered in-betweening and video upscaling tools.
+
+![image](https://github.com/user-attachments/assets/8ec3f5c0-f280-4e35-9add-96533fafeca6)
+
 
 ## One-Stop AI Creation Platform
 
